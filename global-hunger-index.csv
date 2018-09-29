@@ -1,0 +1,247 @@
+iso2,iso3,country_name_en,country_name_de,score1992,score2000,score2008,score2016
+AF,AFG,Afghanistan,Afghanistan,49.3,52.4,39.2,34.8
+AX,ALA,"Åland Islands",Åland,20.4,21.1,16.9,11.9
+AL,ALB,Albania,Albanien,16.8,14.8,10.8,8.7
+DZ,DZA,Algeria,Algerien,65.9,57.8,40.5,32.8
+AS,ASM,"American Samoa",Amerikanisch-Samoa,5.8,5.3,<5,<5
+AD,AND,Andorra,Andorra,-,17.4,11.7,8.7
+AO,AGO,Angola,Angola,-,27.2,15.7,9.8
+AI,AIA,Anguilla,Anguilla,-,-,-,-
+AQ,ATA,Antarctica,Antarktika,52.4,38.5,32.4,27.1
+AG,ATG,"Antigua and Barbuda","Antigua und Barbuda",-,<5,<5,<5
+AR,ARG,Argentina,Argentinien,44.6,38.1,31.8,23.2
+AM,ARM,Armenia,Armenien,-,-,-,-
+AW,ABW,Aruba,Aruba,36.7,30.8,23.9,15.4
+AU,AUS,Australia,Australien,-,9.6,6.7,<5
+AT,AUT,Austria,Österreich,32.4,33,30.9,23
+AZ,AZE,Azerbaijan,Aserbaidschan,16.1,11.8,5.4,<5
+BS,BHS,Bahamas,Bahamas,9.3,9.5,8.8,8.3
+BH,BHR,Bahrain,Bahrain,47.7,48.4,37.1,31
+BD,BGD,Bangladesh,Bangladesch,-,-,-,-
+BB,BRB,Barbados,Barbados,45.3,44.7,26.6,21.7
+BY,BLR,Belarus,Belarus (Weissrussland),40.4,40.3,30.5,22.9
+BE,BEL,Belgium,Belgien,52.2,51.5,48,46.1
+BZ,BLZ,Belize,Belize,62.5,51.9,50.9,44.3
+BJ,BEN,Benin,Benin,6.2,<5,<5,<5
+BM,BMU,Bermuda,Bermuda,26.4,15.9,11.5,7.7
+BT,BTN,Bhutan,Bhutan,15.1,11.4,9.3,8.5
+BO,BOL,"Bolivia, Plurinational State of",Bolivien,-,-,-,-
+BA,BIH,"Bosnia and Herzegovina","Bosnien und Herzegowina",-,-,-,-
+BW,BWA,Botswana,Botswana,37.6,37.2,31.9,26.6
+BV,BVT,"Bouvet Island",Bouvetinsel,7.6,6.3,5,<5
+BR,BRA,Brazil,Brasilien,31.8,31.4,34.1,25.7
+IO,IOT,"British Indian Ocean Territory","Britisches Territorium Im Indischen Ozean",-,6.2,<5,<5
+BN,BRN,"Brunei Darussalam","Brunei Darussalam",8.7,6.1,<5,<5
+BG,BGR,Bulgaria,Bulgarien,61.1,48.5,35.9,32.7
+BF,BFA,"Burkina Faso","Burkina Faso",25,19.4,15.6,11.1
+BI,BDI,Burundi,Burundi,23.6,20.2,17.5,13.9
+KH,KHM,Cambodia,Kambodscha,19.3,15.3,16.1,13.7
+CM,CMR,Cameroon,Kamerun,19.1,16.8,12.6,11.2
+CA,CAN,Canada,Kanada,-,-,-,-
+CV,CPV,"Cape Verde","Kap Verde",-,5.3,<5,<5
+KY,CYM,"Cayman Islands",Kaimaninseln,70.9,58.5,43,33.4
+CF,CAF,"Central African Republic","Zentralafrikanische Republik",11.7,10.2,8.7,8.5
+TD,TCD,Chad,Tschad,21.1,18.5,15.6,12
+CL,CHL,Chile,Chile,33.5,27.9,24.5,20.9
+CN,CHN,China,"China, Volksrepublik",-,15.2,8.2,8.2
+CX,CXR,"Christmas Island",Weihnachtsinsel,42.7,29.9,22.7,13.9
+CC,CCK,"Cocos (Keeling) Islands",Kokosinseln,28.4,28,21.9,20.7
+CO,COL,Colombia,Kolumbien,46.1,44.4,33.9,28.1
+KM,COM,Comoros,Komoren,45.2,43.9,31.9,27.4
+CG,COG,Congo,"Republik Kongo",score1992,score2000,score2008,score2016
+CD,COD,"Congo, the Democratic Republic of the","Kongo, Demokratische Republik (Ehem. Zaire)",49.3,52.4,39.2,34.8
+CK,COK,"Cook Islands",Cookinseln,20.4,21.1,16.9,11.9
+CR,CRI,"Costa Rica","Costa Rica",16.8,14.8,10.8,8.7
+CI,CIV,"Côte d'Ivoire","Côte D'ivoire (Elfenbeinküste)",65.9,57.8,40.5,32.8
+HR,HRV,Croatia,Kroatien,5.8,5.3,<5,<5
+CU,CUB,Cuba,Kuba,-,17.4,11.7,8.7
+CY,CYP,Cyprus,Zypern,-,27.2,15.7,9.8
+CZ,CZE,"Czech Republic","Tschechische Republik",-,-,-,-
+DK,DNK,Denmark,Dänemark,52.4,38.5,32.4,27.1
+DJ,DJI,Djibouti,Dschibuti,-,<5,<5,<5
+DM,DMA,Dominica,Dominica,44.6,38.1,31.8,23.2
+DO,DOM,"Dominican Republic","Dominikanische Republik",-,-,-,-
+EC,ECU,Ecuador,Ecuador,36.7,30.8,23.9,15.4
+EG,EGY,Egypt,Ägypten,-,9.6,6.7,<5
+SV,SLV,"El Salvador","El Salvador",32.4,33,30.9,23
+GQ,GNQ,"Equatorial Guinea",Äquatorialguinea,16.1,11.8,5.4,<5
+ER,ERI,Eritrea,Eritrea,9.3,9.5,8.8,8.3
+EE,EST,Estonia,Estland,47.7,48.4,37.1,31
+ET,ETH,Ethiopia,Äthiopien,-,-,-,-
+FK,FLK,"Falkland Islands (Malvinas)",Falklandinseln,45.3,44.7,26.6,21.7
+FO,FRO,"Faroe Islands",Färöer,40.4,40.3,30.5,22.9
+FJ,FJI,Fiji,Fidschi,52.2,51.5,48,46.1
+FI,FIN,Finland,Finnland,62.5,51.9,50.9,44.3
+FR,FRA,France,Frankreich,6.2,<5,<5,<5
+GF,GUF,"French Guiana",Französisch-Guayana,26.4,15.9,11.5,7.7
+PF,PYF,"French Polynesia",Französisch-Polynesien,15.1,11.4,9.3,8.5
+TF,ATF,"French Southern Territories","Französische Süd- und Antarktisgebiete",-,-,-,-
+GA,GAB,Gabon,Gabun,-,-,-,-
+GM,GMB,Gambia,Gambia,37.6,37.2,31.9,26.6
+GE,GEO,Georgia,Georgien,7.6,6.3,5,<5
+DE,DEU,Germany,Deutschland,31.8,31.4,34.1,25.7
+GH,GHA,Ghana,Ghana,-,6.2,<5,<5
+GI,GIB,Gibraltar,Gibraltar,8.7,6.1,<5,<5
+GR,GRC,Greece,Griechenland,61.1,48.5,35.9,32.7
+GL,GRL,Greenland,Grönland,25,19.4,15.6,11.1
+GD,GRD,Grenada,Grenada,23.6,20.2,17.5,13.9
+GP,GLP,Guadeloupe,Guadeloupe,19.3,15.3,16.1,13.7
+GU,GUM,Guam,Guam,19.1,16.8,12.6,11.2
+GT,GTM,Guatemala,Guatemala,-,-,-,-
+GG,GGY,Guernsey,Guernsey (Kanalinsel),-,5.3,<5,<5
+GN,GIN,Guinea,Guinea,70.9,58.5,43,33.4
+GW,GNB,Guinea-Bissau,Guinea-Bissau,11.7,10.2,8.7,8.5
+GY,GUY,Guyana,Guyana,21.1,18.5,15.6,12
+HT,HTI,Haiti,Haiti,33.5,27.9,24.5,20.9
+HM,HMD,"Heard Island and McDonald Islands","Heard und Mcdonaldinseln",-,15.2,8.2,8.2
+VA,VAT,"Holy See (Vatican City State)",Vatikanstadt,42.7,29.9,22.7,13.9
+HN,HND,Honduras,Honduras,28.4,28,21.9,20.7
+HK,HKG,"Hong Kong",Hongkong,46.1,44.4,33.9,28.1
+HU,HUN,Hungary,Ungarn,45.2,43.9,31.9,27.4
+IS,ISL,Iceland,Island,,,,
+IN,IND,India,Indien,,,,
+ID,IDN,Indonesia,Indonesien,,,,
+IR,IRN,"Iran, Islamic Republic of","Iran, Islamische Republik",,,,
+IQ,IRQ,Iraq,Irak,,,,
+IE,IRL,Ireland,Irland,,,,
+IM,IMN,"Isle of Man","Insel Man",,,,
+IL,ISR,Israel,Israel,,,,
+IT,ITA,Italy,Italien,,,,
+JM,JAM,Jamaica,Jamaika,,,,
+JP,JPN,Japan,Japan,,,,
+JE,JEY,Jersey,Jersey (Kanalinsel),,,,
+JO,JOR,Jordan,Jordanien,,,,
+KZ,KAZ,Kazakhstan,Kasachstan,,,,
+KE,KEN,Kenya,Kenia,,,,
+KI,KIR,Kiribati,Kiribati,,,,
+KP,PRK,"Korea, Democratic People's Republic of","Korea, Demokratische Volksrepublik (Nordkorea)",,,,
+KR,KOR,"Korea, Republic of","Korea, Republik (Südkorea)",,,,
+KW,KWT,Kuwait,Kuwait,,,,
+KG,KGZ,Kyrgyzstan,Kirgisistan,,,,
+LA,LAO,"Lao People's Democratic Republic","Laos, Demokratische Volksrepublik",,,,
+LV,LVA,Latvia,Lettland,,,,
+LB,LBN,Lebanon,Libanon,,,,
+LS,LSO,Lesotho,Lesotho,,,,
+LR,LBR,Liberia,Liberia,,,,
+LY,LBY,"Libyan Arab Jamahiriya","Libysch-Arabische Dschamahirija (Libyen)",,,,
+LI,LIE,Liechtenstein,Liechtenstein,,,,
+LT,LTU,Lithuania,Litauen,,,,
+LU,LUX,Luxembourg,Luxemburg,,,,
+MO,MAC,Macao,Macao,,,,
+MK,MKD,"Macedonia, the former Yugoslav Republic of","Mazedonien, Ehem. Jugoslawische Republik [2b]",,,,
+MG,MDG,Madagascar,Madagaskar,,,,
+MW,MWI,Malawi,Malawi,,,,
+MY,MYS,Malaysia,Malaysia,,,,
+MV,MDV,Maldives,Malediven,,,,
+ML,MLI,Mali,Mali,,,,
+MT,MLT,Malta,Malta,,,,
+MH,MHL,"Marshall Islands",Marshallinseln,,,,
+MQ,MTQ,Martinique,Martinique,,,,
+MR,MRT,Mauritania,Mauretanien,,,,
+MU,MUS,Mauritius,Mauritius,,,,
+YT,MYT,Mayotte,Mayotte,,,,
+MX,MEX,Mexico,Mexiko,,,,
+FM,FSM,"Micronesia, Federated States of",Mikronesien,,,,
+MD,MDA,"Moldova, Republic of","Moldawien (Republik Moldau)",,,,
+MC,MCO,Monaco,Monaco,,,,
+MN,MNG,Mongolia,Mongolei,,,,
+ME,MNE,Montenegro,Montenegro,,,,
+MS,MSR,Montserrat,Montserrat,,,,
+MA,MAR,Morocco,Marokko,,,,
+MZ,MOZ,Mozambique,Mosambik,,,,
+MM,MMR,Myanmar,Myanmar (Burma),,,,
+NA,NAM,Namibia,Namibia,,,,
+NR,NRU,Nauru,Nauru,,,,
+NP,NPL,Nepal,Nepal,,,,
+NL,NLD,Netherlands,Niederlande,,,,
+NC,NCL,"New Caledonia",Neukaledonien,,,,
+NZ,NZL,"New Zealand",Neuseeland,,,,
+NI,NIC,Nicaragua,Nicaragua,,,,
+NE,NER,Niger,Niger,,,,
+NG,NGA,Nigeria,Nigeria,,,,
+NU,NIU,Niue,Niue,,,,
+NF,NFK,"Norfolk Island",Norfolkinsel,,,,
+MP,MNP,"Northern Mariana Islands","Nördliche Marianen",,,,
+NO,NOR,Norway,Norwegen,,,,
+OM,OMN,Oman,Oman,,,,
+PK,PAK,Pakistan,Pakistan,,,,
+PW,PLW,Palau,Palau,,,,
+PS,PSE,"Palestinian Territory, Occupied","Palästinensische Autonomiegebiete",,,,
+PA,PAN,Panama,Panama,,,,
+PG,PNG,"Papua New Guinea",Papua-Neuguinea,,,,
+PY,PRY,Paraguay,Paraguay,,,,
+PE,PER,Peru,Peru,,,,
+PH,PHL,Philippines,Philippinen,,,,
+PN,PCN,Pitcairn,Pitcairninseln,,,,
+PL,POL,Poland,Polen,,,,
+PT,PRT,Portugal,Portugal,,,,
+PR,PRI,"Puerto Rico","Puerto Rico",,,,
+QA,QAT,Qatar,Katar,,,,
+RE,REU,Réunion,Réunion,,,,
+RO,ROU,Romania,Rumänien,,,,
+RU,RUS,"Russian Federation","Russische Föderation",,,,
+RW,RWA,Rwanda,Ruanda,,,,
+BL,BLM,"Saint Barthélemy",Saint-Barthélemy,,,,
+SH,SHN,"Saint Helena, Ascension and Tristan da Cunha","St. Helena",,,,
+KN,KNA,"Saint Kitts and Nevis","St. Kitts und Nevis",,,,
+LC,LCA,"Saint Lucia","St. Lucia",,,,
+MF,MAF,"Saint Martin (French part)","Saint-Martin (Franz. Teil)",,,,
+PM,SPM,"Saint Pierre and Miquelon","Saint-Pierre und Miquelon",,,,
+VC,VCT,"Saint Vincent and the Grenadines","St. Vincent und die Grenadinen",,,,
+WS,WSM,Samoa,Samoa,,,,
+SM,SMR,"San Marino","San Marino",,,,
+ST,STP,"Sao Tome and Principe","São Tomé und Príncipe",,,,
+SA,SAU,"Saudi Arabia",Saudi-Arabien,,,,
+SN,SEN,Senegal,Senegal,,,,
+RS,SRB,Serbia,Serbien,,,,
+SC,SYC,Seychelles,Seychellen,,,,
+SL,SLE,"Sierra Leone","Sierra Leone",,,,
+SG,SGP,Singapore,Singapur,,,,
+SK,SVK,Slovakia,Slowakei,,,,
+SI,SVN,Slovenia,Slowenien,,,,
+SB,SLB,"Solomon Islands",Salomonen,,,,
+SO,SOM,Somalia,Somalia,,,,
+ZA,ZAF,"South Africa",Südafrika,,,,
+GS,SGS,"South Georgia and the South Sandwich Islands","Südgeorgien und die Südlichen Sandwichinseln",,,,
+SS,SSD,"South Sudan",Südsudan,,,,
+ES,ESP,Spain,Spanien,,,,
+LK,LKA,"Sri Lanka","Sri Lanka",,,,
+SD,SDN,Sudan,Sudan,,,,
+SR,SUR,Suriname,Suriname,,,,
+SJ,SJM,"Svalbard and Jan Mayen","Svalbard und jan Mayen",,,,
+SZ,SWZ,Swaziland,Swasiland,,,,
+SE,SWE,Sweden,Schweden,,,,
+CH,CHE,Switzerland,"Schweiz (Confoederatio Helvetica)",,,,
+SY,SYR,"Syrian Arab Republic","Syrien, Arabische Republik",,,,
+TW,TWN,"Taiwan, Province of China","Republik China (Taiwan)",,,,
+TJ,TJK,Tajikistan,Tadschikistan,,,,
+TZ,TZA,"Tanzania, United Republic of","Tansania, Vereinigte Republik",,,,
+TH,THA,Thailand,Thailand,,,,
+TL,TLS,Timor-Leste,Osttimor,,,,
+TG,TGO,Togo,Togo,,,,
+TK,TKL,Tokelau,Tokelau,,,,
+TO,TON,Tonga,Tonga,,,,
+TT,TTO,"Trinidad and Tobago","Trinidad und Tobago",,,,
+TN,TUN,Tunisia,Tunesien,,,,
+TR,TUR,Turkey,Türkei,,,,
+TM,TKM,Turkmenistan,Turkmenistan,,,,
+TC,TCA,"Turks and Caicos Islands","Turks- und Caicosinseln",,,,
+TV,TUV,Tuvalu,Tuvalu,,,,
+UG,UGA,Uganda,Uganda,,,,
+UA,UKR,Ukraine,Ukraine,,,,
+AE,ARE,"United Arab Emirates","Vereinigte Arabische Emirate",,,,
+GB,GBR,"United Kingdom","Grossbritannien und Nordirland",,,,
+US,USA,"United States","Vereinigte Staaten von Amerika",,,,
+UM,UMI,"United States Minor Outlying Islands","United States Minor Outlying Islands",,,,
+UY,URY,Uruguay,Uruguay,,,,
+UZ,UZB,Uzbekistan,Usbekistan,,,,
+VU,VUT,Vanuatu,Vanuatu,,,,
+VE,VEN,"Venezuela, Bolivarian Republic of",Venezuela,,,,
+VN,VNM,"Viet Nam",Vietnam,,,,
+VG,VGB,"Virgin Islands, British","Britische Jungferninseln",,,,
+VI,VIR,"Virgin Islands, U.S.","Amerikanische Jungferninseln",,,,
+WF,WLF,"Wallis and Futuna","Wallis und Futuna",,,,
+EH,ESH,"Western Sahara",Westsahara,,,,
+YE,YEM,Yemen,Jemen,,,,
+ZM,ZMB,Zambia,Sambia,,,,
+ZW,ZWE,Zimbabwe,Simbabwe,,,,
